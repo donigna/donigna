@@ -1,5 +1,5 @@
 <h1 align="center">Doni Darmawan</h1>
-<h3 align="center">Game Developer | Computer Graphics Enthusiast | Unity </h3>
+<h3 align="center">Game Developer | Programmer | Computer Graphics Enthusiast | Unity </h3>
 <p align="center">
   <a href="https://linkedin.com/in/doni-ahmad-darmawan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <!-- <a href="https://twitter.com/TuanDoni"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a> -->
