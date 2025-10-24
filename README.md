@@ -8,7 +8,10 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/donigna/donigna/blob/master/GerstnerWaterGif.gif?raw=true" width="600" alt="Gerstner Wavw">
+  <img src="https://github.com/donigna/donigna/blob/master/GerstnerWaterGif.gif?raw=true" width="600" alt="Gerstner Wave">
+</p>
+<p align="center">
+  <img src="https://github.com/donigna/donigna/blob/master/GrassGif.gif?raw=true" width="600" alt="Gerstner Wave">
 </p>
 
 ---
