@@ -9,9 +9,13 @@
 ---
 <p align="center">
   <img src="https://github.com/donigna/donigna/blob/master/GerstnerWaterGif.gif?raw=true" width="600" alt="Gerstner Wave">
+  </br>
+  Gerstner Wave
 </p>
 <p align="center">
-  <img src="https://github.com/donigna/donigna/blob/master/GrassGif.gif?raw=true" width="600" alt="Gerstner Wave">
+  <img src="https://github.com/donigna/donigna/blob/master/GrassGif.gif?raw=true" width="600" height="400" alt="Grass With Compute Shader">
+  </br>
+  Grass with Compute Shader
 </p>
 
 ---
