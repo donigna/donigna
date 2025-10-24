@@ -7,9 +7,8 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://github.com/TuanDoni/TuanDoni/blob/main/assets/preview.gif?raw=true" width="600" alt="Gameplay Demo">
+  <img src="https://github.com/donigna/donigna/blob/master/GerstnerWaterGif.gif?raw=true" width="600" alt="Gerstner Wavw">
 </p>
 
 ---
