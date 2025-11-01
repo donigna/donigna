@@ -41,7 +41,7 @@
 <p align="center">
   <img src="https://github.com/donigna/UnityShader/blob/main/GIF/Scanline.gif" width="600" height="400" alt="Grass With Compute Shader">
   </br>
-  Reflection Shader
+  Scanline Shader
 </p>
 
 ---
